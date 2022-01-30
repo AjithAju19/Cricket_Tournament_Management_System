@@ -1,0 +1,121 @@
+
+<h1>Cricket Player Management System</h1><br/>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="navbar">
+<ul>
+  <li><a href="home">Home</a></li>
+  <li><a href="">Login</a></li>
+<li><a href="insert">Add a player</a></li>
+<li><a href="display">Display All player details</a></li>
+<li><a href="update">Update player details</a></li>
+<li><a href="delete">Delete player details</a></li>
+<li><a href="search">Search for a player</a></li>
+<div class="dropdown">
+  <button class="dropbtn">Teams
+    <i class=""></i>
+  </button>
+  <div class="dropdown-content">
+    <a href="gallery">Gallery</a>
+    <a href="tinsert">Add a new team</a>
+    <a href="tdelete">Remove a team</a>
+    <a href="tupdate">Update team details</a>
+    <a href="tdisplay">Display all team details</a>
+    <a href="tsearch">Search for team details</a>
+  </div>
+</div> 
+</ul>
+</div><br/><br/><br/>
+
+<div>
+
+</div><br/><br/><br/>
+<br/><br/><br/>
+<br/><br/><br/>
+<br/><br/><br/>
+
+<div>
+  <div class="card">
+  
+    <div class="card_part card_part-one">
+    </div>
+    
+     <!-- Photo 2 -->
+    <div class="card_part card_part-two">
+  
+    </div>
+  
+    <!-- Photo 3 -->
+    <div class="card_part card_part-three">
+    </div>
+  
+    <!-- Photo 4 -->
+    <div class="card_part card_part-four">
+    </div>
+  
+  </div>
+
+</div>
+
+
+<div class="insertform">
+  <div class="c">
+    <h2>Delete team details:</h2><br/>
+    This module is to delete / remove a team from the league i.e., deleting records from the database. To do so type the team name and Click “DELETE”, the particular team record would be deleted.<br/><br/>
+    
+  </div>
+<div class="c1">
+<h2>Enter details to be deleted...</h2>
+
+<input type="text" [(ngModel)]="tname" placeholder="Team Name"/><br/><br/>
+
+<button class = "insertbtn" name="delete" (click) = "delete_team()">Delete</button><br/><br/>
+</div>
+</div>
+
+<br/><br/><br/>
+<div class="footer">
+  <div class="footer-col1"><br/><br/>
+                <h5>About Corso</h5>
+                <p class="p-small">We're passionate in providing place for young players to fulfill their dreams.</p>
+            </div>
+        
+            <div class="footer-col2">
+                <br/><h5>Links</h5>
+                        
+                        <div class="media-body"><a href="https://www.icc-cricket.com">Terms & Conditions</a></div>
+              <br/>
+                        
+                        <div class="media-body"><a href="https://www.icc-cricket.com">Privacy Policy</a></div>
+                    
+                  <br/> 
+                        
+                        <div class="media-body"><a href="https://www.icc-cricket.com">Article Details</a></div><br/>
+                    
+                
+            </div>
+      
+        
+            <div class="footer-col3">
+                <h5>Social Media</h5>
+                <p class="p-small">For news & updates follow us</p>
+                <section id="lab_social_icon_footer">
+                  <!-- Include Font Awesome Stylesheet in Header -->
+                  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
+                  <div class="container">
+                          <div class="text-center center-block">
+                                  <a href="https://www.facebook.com/icc"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
+                                <a href="https://twitter.com/icc"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
+                                <a href="https://plus.google.com/icc"><i id="social-gp" class="fa fa-google-plus-square fa-3x social"></i></a>
+                                <a href="mailto:icc"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
+                      </div>
+                  </div>
+                  </section>
+            </div> <br/><br/>
+            <p class="copyright">Copyright © 2021 <a href="https://www.icc-cricket.com">ICC</a> - All rights reserved</p>
+        </div> 
+
+  
+
+
+
+
