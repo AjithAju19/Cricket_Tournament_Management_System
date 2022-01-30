@@ -1,1 +1,8 @@
-# Cricket_Tournament_Management_System
+# Cricket_Tournament_Management_System![Screenshot (473)](https://user-images.githubusercontent.com/87603345/151705523-8c7df122-ed73-4c43-a1e7-052c12dc6338.png)
+![Screenshot (474)](https://user-images.githubusercontent.com/87603345/151705526-64a8f602-e6a6-48fa-be43-be989ed35e48.png)
+![Screenshot (475)](https://user-images.githubusercontent.com/87603345/151705529-e7073620-2dbf-4540-bbb0-09d64163d3b7.png)
+![Screenshot (476)](https://user-images.githubusercontent.com/87603345/151705538-9445abfe-7201-4adf-b7a9-490cc2973faf.png)
+![Screenshot (477)](https://user-images.githubusercontent.com/87603345/151705548-bebc5c8b-a3c7-42f6-b7e7-31523b493244.png)
+![Screenshot (478)](https://user-images.githubusercontent.com/87603345/151705551-5c37fc35-7ade-4e5b-809e-7d09ebf0d2a6.png)
+![Screenshot (479)](https://user-images.githubusercontent.com/87603345/151705553-51e38230-5d44-4d29-be00-2c2042ee009a.png)
+![Screenshot (480)](https://user-images.githubusercontent.com/87603345/151705556-c515ae48-c94a-4952-978d-6fc20c173f9f.png)
